@@ -10,7 +10,7 @@ N/A
 This site is used to show an accesible and consise webpage. The navigation bar provides working links with alt attributes to images in cases of them not loading properly. Other viewers can use this repository to see refactored code with semantic HTML elements that follow a logical structure. 
 
 https://alexandramunn.github.io/challenge-module-1/
-
+![alt text](Screenshot 2022-12-08 at 11.35.23 PM.png)
 ## Credits 
 N/A
 
