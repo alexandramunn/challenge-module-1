@@ -11,6 +11,8 @@ This site is used to show an accesible and consise webpage. The navigation bar p
 
 https://alexandramunn.github.io/challenge-module-1/
 
+![alt text](https://github.com/alexandramunn/challenge-module-1/blob/main/assets/images/Screenshot%202022-12-08%20at%2011.35.23%20PM.png)
+
 ## Credits 
 N/A
 
