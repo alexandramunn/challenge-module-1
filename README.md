@@ -11,4 +11,4 @@ This site is used to show an accesible and consise webpage. The navigation bar p
 
 
 ## License
-MIT
+N/A
